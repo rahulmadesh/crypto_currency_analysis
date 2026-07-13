@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+scikit-learn
+tensorflow
+textblob
+
+
+57fe47fc0a6649f6ad44e64115923788
